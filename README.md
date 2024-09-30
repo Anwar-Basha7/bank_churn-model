@@ -27,13 +27,13 @@ This Python script analyzes a dataset on bank churn modeling using Pandas, NumPy
 ### Results
 
 #### The trained Model visualization
-![Trained Model Result](https://github.com/Adhithi-S-naik/Bank_Churn-Model/blob/main/image1.png)
+![Trained Model Result](https://github.com/Anwar-Basha7/bank_churn-model/blob/main/image1.png)
 
 #### Predction testing Visualization
-![Predicted Outputs](https://github.com/Adhithi-S-naik/Bank_Churn-Model/blob/main/image2.png)
+![Predicted Outputs](https://github.com/Anwar-Basha7/bank_churn-model/blob/main/image2.png)
 
 #### Predction testing Visualization
-![Predicted Outputs](https://github.com/Adhithi-S-naik/Bank_Churn-Model/blob/main/image3.png)
+![Predicted Outputs](https://github.com/Anwar-Basha7/bank_churn-model/blob/main/image3.png)
 
 ### Preprocessing
 
